@@ -1,0 +1,34 @@
+channels:
+  - conda-forge
+dependencies:
+  - abtem
+  - ase
+  - atomap
+  - conda
+  - dask >=2021.08.1
+  - dask-labextension
+  - hdf5plugin
+  - hyperspy >=1.7.0
+  - hyperspyui >=1.1.5
+  - ipympl
+  - jupyterlab >=3.0.0,<4.0
+  - kikuchipy >=0.5.7
+  - lumispy >=0.2
+  - mamba
+  - mamba_gator
+  - matplotlib-scalebar
+  - nb_conda_kernels
+  - nglview
+  - notebook
+  - particlespy
+  - python-graphviz
+  - python 3.9*
+  - pystackreg
+  - pyxem >=0.14
+  - qt
+  - qtconsole
+  - scanning_drift_corr
+  # sphinx >=4.0 pins docutils <0.18
+  - sphinx >=4.0
+  - spyder
+  - start_jupyter_cm
